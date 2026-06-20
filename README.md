@@ -30,3 +30,8 @@ The Diagram
 ## 📄 License
 
 MIT — feel free to use and adapt.
+
+
+Connect me at
+email = mohdalisaad868@gmail.com
+linkedIn = https://www.linkedin.com/in/mohd-ali-529684378/
