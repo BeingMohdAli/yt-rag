@@ -1,5 +1,9 @@
 # 🎬 Ask the Video
-
+Problem
+Watching a YouTube video to find one specific piece of information is slow. A 40-minute tutorial, lecture, or podcast might contain the answer to your question in just two minutes — but there's no way to know where without watching the whole thing, scrubbing through the timeline, or hoping the creator added timestamps.
+Manually skimming auto-generated captions isn't much better: they're a wall of unstructured text with no search, no context, and no way to ask a follow-up question.
+YT RAG Chat solves this by letting you paste any YouTube link and just ask it questions, like you would a person who already watched the video. It pulls the video's transcript, breaks it into searchable chunks, and uses retrieval-augmented generation (RAG) to find the most relevant part of the transcript for your question — then has an LLM (Google Gemini) answer based only on that context, so responses stay grounded in what was actually said in the video rather than the model's general knowledge.
+This turns any YouTube video into something you can interrogate conversationally instead of watching passively.
 A Retrieval-Augmented Generation (RAG) app that answers questions about any YouTube video — grounded in its actual captions, not guesses.
 
 The Diagram
